@@ -1,0 +1,2 @@
+GT4500,0,0,0,0  #intializing empty GT4500
+TORPEDO,SINGLE  #fire

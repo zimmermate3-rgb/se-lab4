@@ -1,0 +1,2 @@
+GT4500,1,1,1,0  #intialize GT4500
+TORPEDO,SINGLE  #single fire failure
